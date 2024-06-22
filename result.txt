@@ -105,6 +105,28 @@ CCTV16 4K超高清,http://171.213.38.65:8889/rtp/239.93.42.54:5140
 CCTV16 4K超高清,http://125.71.58.184:4022/rtp/239.93.42.54:5140
 CCTV16 4K超高清,http://xeace.cn:8888/rtp/239.93.42.54:5140
 
+轮播,#genre#
+铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
+地下交通站,http://b.huangfeiyan.top:35455/huya/11342433
+李卫当官,http://b.huangfeiyan.top:35455/huya/26355788
+爱情公寓,http://b.huangfeiyan.top:35455/huya/11336726
+搞笑一家人,http://b.huangfeiyan.top:35455/huya/11342402
+康熙微服私访记,http://b.huangfeiyan.top:35455/huya/11342418
+家有儿女,http://b.huangfeiyan.top:35455/huya/29915635
+神探狄仁杰,http://b.huangfeiyan.top:35455/huya/11342425
+许三多,http://b.huangfeiyan.top:35455/douyu/11651155
+滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
+李子柒,http://b.huangfeiyan.top:35455/huya/21969336
+密子君,http://b.huangfeiyan.top:35455/huya/21140922
+花都兄弟,http://b.huangfeiyan.top:35455/huya/23859902
+周星星,http://b.huangfeiyan.top:35455/huya/11342412
+林正英,http://b.huangfeiyan.top:35455/huya/11342421
+虎牙影院,http://b.huangfeiyan.top:35455/huya/11601968
+动物世界记录,http://b.huangfeiyan.top:35455/huya/29886283
+动物世界佳佳,http://b.huangfeiyan.top:35455/huya/25749030
+动物世界慢观察,http://b.huangfeiyan.top:35455/huya/25567644
+老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
+
 卫视频道,#genre#
 四川卫视高清,http://182.149.177.103:9100/rtp/239.93.0.20:1235
 四川卫视高清,http://110.185.240.236:8588/rtp/239.93.0.20:1235

@@ -29,3 +29,4 @@ subscribe_urls = [
 ]
 open_multicast = False
 region_list = ["all"]
+strict_match = False

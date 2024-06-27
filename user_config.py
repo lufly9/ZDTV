@@ -24,6 +24,7 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
+    "https://raw.githubusercontent.com/lufly9/Y/main/轮播.txt",
     "https://raw.githubusercontent.com/lufly9/ZBTV/main/result.txt",
     "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
 ]

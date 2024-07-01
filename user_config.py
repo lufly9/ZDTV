@@ -1,13 +1,13 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "东方卫视高清",
-    "CCTV-1高清",
-    "CCTV-2高清",
-    "CCTV-5+高清",
-    "CCTV-13高清",
+    "东方卫视",
+    "CCTV-1综合",
+    "CCTV-2财经",
+    "CCTV-5+",
+    "CCTV-13新闻",
     "凤凰中文",
-    "湖南卫视高清",
+    "湖南卫视",
     "凤凰资讯",
     "咪咕直播1",
 ]

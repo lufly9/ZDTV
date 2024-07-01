@@ -26,7 +26,7 @@ CCTV-16奥林匹克频道,rtp://239.3.1.184:8001
 CCTV-17农业农村,rtp://239.3.1.151:8144
 
 轮播,#genre#
-铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
+铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396.fvl
 地下交通站,http://b.huangfeiyan.top:35455/huya/11342433
 李卫当官,http://b.huangfeiyan.top:35455/huya/26355788
 爱情公寓,http://b.huangfeiyan.top:35455/huya/11336726

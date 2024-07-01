@@ -9,7 +9,7 @@ favorite_list = [
     "凤凰中文",
     "湖南卫视高清",
     "凤凰资讯",
-    "咪咕直播 1",
+    "咪咕直播1",
 ]
 open_online_search = False
 favorite_page_num = 3
@@ -24,7 +24,7 @@ domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
 open_subscribe = True
 subscribe_urls = [
-    "https://raw.githubusercontent.com/lufly9/ZBTV/main/result.txt",
+    "https://raw.githubusercontent.com/lufly9/ZBTV_Plus/main/result.txt",
 ]
 open_multicast = False
 region_list = ["all"]

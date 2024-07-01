@@ -102,62 +102,24 @@ CCTV-17农业农村,http://123.112.246.6:5555/rtp/239.3.1.151:8144
 
 轮播,#genre#
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
-铁齿铜牙纪晓岚,https://goodiptv.club/huya/11342396
-铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
 地下交通站,http://cfss.cc/cdn/hy/11342433.flv
-地下交通站,https://goodiptv.club/huya/11342433
-地下交通站,http://b.huangfeiyan.top:35455/huya/11342433
 李卫当官,http://cfss.cc/cdn/hy/26355788.flv
-李卫当官,https://goodiptv.club/huya/26355788
-李卫当官,http://b.huangfeiyan.top:35455/huya/26355788
 爱情公寓,http://cfss.cc/cdn/hy/11336726.flv
-爱情公寓,https://goodiptv.club/huya/11336726
-爱情公寓,http://b.huangfeiyan.top:35455/huya/11336726
 搞笑一家人,http://cfss.cc/cdn/hy/11342402.flv
-搞笑一家人,https://goodiptv.club/huya/11342402
-搞笑一家人,http://b.huangfeiyan.top:35455/huya/11342402
 康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
-康熙微服私访记,https://goodiptv.club/huya/11342418
-康熙微服私访记,http://b.huangfeiyan.top:35455/huya/11342418
 家有儿女,http://cfss.cc/cdn/hy/29915635.flv
-家有儿女,https://goodiptv.club/huya/29915635
-家有儿女,http://b.huangfeiyan.top:35455/huya/29915635
 神探狄仁杰,http://cfss.cc/cdn/hy/11342425.flv
-神探狄仁杰,https://goodiptv.club/huya/11342425
-神探狄仁杰,http://b.huangfeiyan.top:35455/huya/11342425
 许三多,https://goodiptv.club/douyu/11651155
-许三多,http://b.huangfeiyan.top:35455/douyu/11651155
 滇西小哥,https://goodiptv.club/douyu/3243427
-滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
 李子柒,http://cfss.cc/cdn/hy/21969336.flv
-李子柒,https://goodiptv.club/huya/21969336
-李子柒,http://b.huangfeiyan.top:35455/huya/21969336
 密子君,http://cfss.cc/cdn/hy/21140922.flv
-密子君,https://goodiptv.club/huya/21140922
-密子君,http://b.huangfeiyan.top:35455/huya/21140922
 花都兄弟,http://cfss.cc/cdn/hy/23859902.flv
-花都兄弟,https://goodiptv.club/huya/23859902
-花都兄弟,http://b.huangfeiyan.top:35455/huya/23859902
 周星星,http://cfss.cc/cdn/hy/11342412.flv
-周星星,https://goodiptv.club/huya/11342412
-周星星,http://b.huangfeiyan.top:35455/huya/11342412
 林正英,http://cfss.cc/cdn/hy/11342421.flv
-林正英,https://goodiptv.club/huya/11342421
-林正英,http://b.huangfeiyan.top:35455/huya/11342421
 虎牙影院,http://cfss.cc/cdn/hy/11601968.flv
-虎牙影院,https://goodiptv.club/huya/11601968
-虎牙影院,http://b.huangfeiyan.top:35455/huya/11601968
 动物世界记录,http://cfss.cc/cdn/hy/29886283.flv
-动物世界记录,https://goodiptv.club/huya/29886283
-动物世界记录,http://b.huangfeiyan.top:35455/huya/29886283
 动物世界佳佳,http://cfss.cc/cdn/hy/25749030.flv
-动物世界佳佳,https://goodiptv.club/huya/25749030
-动物世界佳佳,http://b.huangfeiyan.top:35455/huya/25749030
 动物世界慢观察,http://cfss.cc/cdn/hy/25567644.flv
-动物世界慢观察,https://goodiptv.club/huya/25567644
-动物世界慢观察,http://b.huangfeiyan.top:35455/huya/25567644
-老高与小茉,https://goodiptv.club/douyu/236461
-老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
 老高与小茉,https://goodiptv.club/douyu/236461.flv
 
 卫视频道,#genre#
@@ -308,9 +270,4 @@ CCTV-17农业农村,http://123.112.246.6:5555/rtp/239.3.1.151:8144
 新疆卫视,http://qnap.yjnhome.com:4000/rtp/239.3.1.48:8160
 
 咪咕直播,#genre#
-咪咕直播 52,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕直播 53,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕直播 54,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕直播 55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-咪咕直播 56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 

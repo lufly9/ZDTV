@@ -27,26 +27,26 @@ CCTV-17农业农村,rtp://239.3.1.151:8144
 
 轮播,#genre#
 
-许三多,
-滇西小哥,
-老高与小茉,
-铁齿铜牙纪晓岚,
-地下交通站,
-李卫当官,
-爱情公寓,
-搞笑一家人,
-康熙微服私访记,
-家有儿女,
-神探狄仁杰,
-李子柒,
-密子君,
-花都兄弟,
-周星星,
-林正英,
-虎牙影院,
-动物世界记录,
-动物世界佳佳,
-动物世界慢观察,
+许三多,http://cfss.cc/cdn
+滇西小哥,http://cfss.cc/cdn
+老高与小茉,http://cfss.cc/cdn
+铁齿铜牙纪晓岚,http://cfss.cc/cdn
+地下交通站,http://cfss.cc/cdn
+李卫当官,http://cfss.cc/cdn
+爱情公寓,http://cfss.cc/cdn
+搞笑一家人,http://cfss.cc/cdn
+康熙微服私访记,http://cfss.cc/cdn
+家有儿女,http://cfss.cc/cdn
+神探狄仁杰,http://cfss.cc/cdn
+李子柒,http://cfss.cc/cdn
+密子君,http://cfss.cc/cdn
+花都兄弟,http://cfss.cc/cdn
+周星星,http://cfss.cc/cdn
+林正英,http://cfss.cc/cdn
+虎牙影院,http://cfss.cc/cdn
+动物世界记录,http://cfss.cc/cdn
+动物世界佳佳,http://cfss.cc/cdn
+动物世界慢观察,http://cfss.cc/cdn
 
 卫视频道,#genre#
 湖南卫视,rtp://239.3.1.132:8012

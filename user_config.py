@@ -22,7 +22,7 @@ recent_days = 30
 ipv_type = "all"
 domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
-open_subscribe = True
+open_subscribe = False
 subscribe_urls = [
     "https://raw.githubusercontent.com/lufly9/ZBTV_Plus/main/result.txt"
 ]

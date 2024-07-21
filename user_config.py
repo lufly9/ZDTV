@@ -11,18 +11,18 @@ favorite_list = [
     "凤凰资讯",
     "咪咕直播",
 ]
-open_online_search = True
+open_online_search = False
 favorite_page_num = 3
 default_page_num = 3
 urls_limit = 5
-open_sort = True
+open_sort = False
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
 ipv_type = "all"
 domain_blacklist = ["epg.pw"]
 url_keywords_blacklist = []
-open_subscribe = False
+open_subscribe = True
 subscribe_urls = [
     "https://raw.githubusercontent.com/lufly9/ZBTV_Plus/main/result.txt"
 ]

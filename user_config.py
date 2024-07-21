@@ -11,11 +11,11 @@ favorite_list = [
     "凤凰资讯",
     "咪咕直播",
 ]
-open_online_search = False
+open_online_search = True
 favorite_page_num = 3
 default_page_num = 3
 urls_limit = 5
-open_sort = False
+open_sort = True
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 30
